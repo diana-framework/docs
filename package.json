@@ -1,0 +1,13 @@
+{
+  "name": "diana-docs",
+  "version": "0.1.0",
+  "scripts": {
+    "docs:dev": "vuepress dev book",
+    "docs:build": "vuepress build book"
+  },
+  "author": "Matúš Makatura",
+  "license": "Apache-2.0",
+  "devDependencies": {
+    "vuepress": "^1.2.0"
+  }
+}

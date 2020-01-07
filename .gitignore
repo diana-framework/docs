@@ -1,0 +1,20 @@
+### Node ###
+node_modules
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+lerna-debug.log*
+
+### VuePress ###
+public
+.vuepress/dist
+!.vuepress/public
+
+### Sublime Text ###
+*.sublime-workspace
+*.sublime-project
+
+### Misc ###
+.DS_Store
